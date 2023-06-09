@@ -110,6 +110,10 @@ form button.btn.join{
     border: 1px solid #8c94b8;
     border-radius: 5px;
     margin: 0px 4px;
+    transition: 0.2s ease;
+}
+.social span a:hover {
+    color: #8c94b8;
 }
 .footer-main p{
     color:#8c94b8;

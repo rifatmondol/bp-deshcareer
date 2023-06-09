@@ -1,4 +1,8 @@
 /* Default */
+body{
+    overflow: visible!important; 
+    padding-right: inherit!important;
+}
 img{
     width: 200px;
 }
